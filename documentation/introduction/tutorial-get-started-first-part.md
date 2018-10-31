@@ -1,10 +1,8 @@
-How to use Vaadin Flow
-======================
+# How to use Vaadin Flow
 
 Using [Vaadin Flow](https://vaadin.com/flow) is very simple. No extensive knowledge of Java is needed, only basic programming skills are required. This tutorial shows you how to create a single-page web UI. All you need is an [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), like Eclipse, and JDK 8 installed on your computer.
 
-1. Overview
------------
+## 1. Overview
 
 With this document, you can create your first Vaadin Flow application. To complete all four parts of the tutorial, you need about 20 to 60 minutes.
 
@@ -103,4 +101,3 @@ Clicking the red square in the Console view will terminate the Jetty server proc
 To get back to the *Java EE Perspective* , an Eclipse mode designed for editing Java web app code, click the Java EE button in the toolbar.
 
 Good job! Let's move on and continue by adding a data grid and list some entities in the grid in the next tutorial section.
-Last updated 2018-10-31 12:50:23 EET
